@@ -7,6 +7,7 @@ On récupère d'abord les informations sur la requête (nom de serveur et de fic
 # Appel à getaddrinfo pour obtenir l’adresse du serveur
 Le code de cette partie est dans le fichier “getaddrinfo.c”
 Dans cette partie nous avons créé un programme simple qui prend le nom d'un serveur en argument et utilise la fonction getaddrinfo() pour obtenir l'adresse IP du serveur. La fonction getaddrinfo() est utilisée pour obtenir des informations d'adresse pour un nom d'hôte ou une adresse IP donnés.
+
 ![1](https://github.com/amineelmaazouz/Client-TFTP/assets/78564470/1a05973b-cbe5-49dd-a0f8-ba87a130abba)
 
 # Réservation d’un socket de connexion vers le serveur
